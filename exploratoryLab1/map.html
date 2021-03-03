@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Detroit Vacant Lots</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoibGVza29qb3NoMDAwIiwiYSI6ImNrbHJtajBhdjAyYXkyb3B3azhieHh2cWwifQ.dq8eXoO7STFEo7-JD2xUgQ';
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/leskojosh000/cklrmqkd40n1417nntovnimd2', // custom style url from https://studio.mapbox.com/
+center: [-83.04, 42.33], // starting position
+zoom: 10 // starting zoom
+});
+</script>
+
+</body>
+</html>
