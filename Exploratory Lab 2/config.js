@@ -7,7 +7,7 @@ var config = {
     use3dTerrain: false,
     title: 'Interactive Thermohaline Circulation Map',
     subtitle: 'Scroll to explore the movement of water through our oceans',
-    byline: 'By a Joshua Lesko',
+    byline: 'By Joshua Lesko',
     footer: 'Source: S. Rahmstorf, Thermohaline Circulation, Refernces Module in Earth Systems and Environmental Sciences, Elsevier, 2015',
     chapters: [
         {
