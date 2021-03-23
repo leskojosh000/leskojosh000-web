@@ -1,4 +1,4 @@
-###Thermohaline Circulation Interactive Map
+### Thermohaline Circulation Interactive Map
 
 https://leskojosh000.github.io/leskojosh000-web/Exploratory%20Lab%202/
 
