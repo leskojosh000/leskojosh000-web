@@ -1,4 +1,6 @@
 Thermohaline Circulation Interactive Map
+file:///C:/Users/lesko/Documents/GEOB%20472%20CARTOGRAPHY/storytelling-main/storytelling-main/src/index.html
+
 
 For exploratory lab 2 I have created an interactive map of the thermohaline circulation that allows you to scroll between zones of deep water formation
 and along the deep and surface water flow path ways, as well as highlighting the main upwelling zones in the ocean.
